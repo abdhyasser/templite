@@ -1,0 +1,36 @@
+body{
+	font-family: "Roboto", sans-serif;
+}
+section{
+	width: 100%;
+	height: 400px;
+}
+section .item{
+	width: 24%;
+	height: 400px;
+
+	float: left;
+	margin-left: 10px;
+	text-align: center;
+}
+section .item i{
+	padding-top: 44px;
+	padding-bottom: 34px;
+	font-size: 40px;
+	color: gold;
+}
+section .item a {
+	text-decoration: none;
+	color: black;
+}
+section .item a h3{
+	padding-top: 25px;
+	padding-bottom: 30px;	
+}
+section .item a:hover{
+	color: rgb(77, 77, 218);
+}
+section .item p{
+	font-size: 25px;
+	color: rgb(159, 146, 146);
+}
